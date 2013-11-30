@@ -54,8 +54,8 @@ class CaseInfo extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'case_info_id' => 'Case Info',
-			'case_in_id' => 'Case In',
+			'case_info_id' => 'Case ±àºÅ',
+			'case_in_id' => 'Case In ±àºÅ',
 			'case_in_no' => 'Case In No',
 			'case_in_title' => 'Case In Title',
 			'case_in_con' => 'Case In Con',
