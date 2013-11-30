@@ -55,13 +55,13 @@ class Oneconn extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'one_id' => 'One',
-			'one_name' => 'One Name',
-			'one_city' => 'One City',
-			'one_email' => 'One Email',
-			'one_tel' => 'One Tel',
-			'one_stu_id' => 'One Stu',
-			'one_time' => 'One Time',
+			'one_id' => '资助人id',
+			'one_name' => '资助人姓名',
+			'one_city' => '资助人城市',
+			'one_email' => '资助人邮件',
+			'one_tel' => '资助人电话',
+			'one_stu_id' => '被资助学生id',
+			'one_time' => '提交资助申请时间',
 		);
 	}
 

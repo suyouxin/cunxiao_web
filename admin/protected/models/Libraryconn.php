@@ -60,13 +60,13 @@ class Libraryconn extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'li_id' => 'Li',
-			'li_name' => 'Li Name',
-			'li_city' => 'Li City',
-			'li_email' => 'Li Email',
-			'li_tel' => 'Li Tel',
-			'li_job' => 'Li Job',
-			'li_time' => 'Li Time',
+			'li_id' => '图书室id',
+			'li_name' => '图书室捐助人姓名',
+			'li_city' => '图书室捐助人所在城市',
+			'li_email' => '图书室捐助人邮件',
+			'li_tel' => '图书室捐助人电话',
+			'li_job' => '图书室企业捐助',
+			'li_time' => '图书室捐助时间',
 			'li_do_1' => 'Li Do 1',
 			'li_do_2' => 'Li Do 2',
 			'li_do_3' => 'Li Do 3',

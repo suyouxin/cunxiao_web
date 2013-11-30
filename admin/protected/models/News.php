@@ -53,11 +53,11 @@ class News extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'new_id' => 'New',
-			'new_time' => 'New Time',
-			'new_writ' => 'New Writ',
-			'new_title' => 'New Title',
-			'new_con' => 'New Con',
+			'new_id' => '新闻id',
+			'new_time' => '新闻发表时间',
+			'new_writ' => '新闻作者',
+			'new_title' => '新闻标题',
+			'new_con' => '新闻内容',
 		);
 	}
 

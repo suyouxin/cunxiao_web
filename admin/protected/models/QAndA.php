@@ -58,15 +58,15 @@ class QAndA extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'QA_id' => 'Qa',
+			'QA_id' => '问答id',
 			'QA_no' => 'Qa No',
-			'QA_qustion' => 'Qa Qustion',
-			'QA_answer' => 'Qa Answer',
-			'QA_KEY_1' => 'Qa Key 1',
-			'QA_KEY_2' => 'Qa Key 2',
-			'QA_KEY_3' => 'Qa Key 3',
+			'QA_qustion' => '问题',
+			'QA_answer' => '回答',
+			'QA_KEY_1' => '问答关键词 1',
+			'QA_KEY_2' => '问答关键词 2',
+			'QA_KEY_3' => '问答关键词 3',
 			'QA_TEMP' => 'Qa Temp',
-			'QA_time' => 'Qa Time',
+			'QA_time' => '问答时间',
 			'QA_who' => 'Qa Who',
 		);
 	}

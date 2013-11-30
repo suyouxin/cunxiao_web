@@ -54,12 +54,12 @@ class Sportconn extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'sp_id' => 'Sp',
-			'sp_name' => 'Sp Name',
-			'sp_city' => 'Sp City',
-			'sp_email' => 'Sp Email',
-			'sp_tel' => 'Sp Tel',
-			'sp_time' => 'Sp Time',
+			'sp_id' => '体育角id',
+			'sp_name' => '体育角捐款人姓名',
+			'sp_city' => '体育角捐款人城市',
+			'sp_email' => '体育角捐款人邮件',
+			'sp_tel' => '体育角捐款人电话',
+			'sp_time' => '体育角捐款时间',
 		);
 	}
 

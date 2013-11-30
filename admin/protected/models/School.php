@@ -63,21 +63,21 @@ class School extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'school_id' => 'School',
-			'school_name' => 'School Name',
-			'school_image_title' => 'School Image Title',
-			'school_add' => 'School Add',
-			'school_case' => 'School Case',
-			'school_image_1' => 'School Image 1',
-			'school_image_2' => 'School Image 2',
-			'school_image_3' => 'School Image 3',
-			'school_image_4' => 'School Image 4',
-			'school_image_5' => 'School Image 5',
-			'school_image_6' => 'School Image 6',
-			'school_introduce_1' => 'School Introduce 1',
-			'school_introduce_2' => 'School Introduce 2',
-			'school_introduce_3' => 'School Introduce 3',
-			'school_number' => 'School Number',
+			'school_id' => '学校编号',
+			'school_name' => '学校名称',
+			'school_image_title' => '学校标题图片',
+			'school_add' => '学校地址',
+			'school_case' => 'school_case',
+			'school_image_1' => '学校照片 1',
+			'school_image_2' => '学校照片 2',
+			'school_image_3' => '学校照片 3',
+			'school_image_4' => '学校照片 4',
+			'school_image_5' => '学校照片 5',
+			'school_image_6' => '学校照片 6',
+			'school_introduce_1' => '学校介绍 1',
+			'school_introduce_2' => '学校介绍 2',
+			'school_introduce_3' => '学校介绍 3',
+			'school_number' => '学校排序',
 		);
 	}
 

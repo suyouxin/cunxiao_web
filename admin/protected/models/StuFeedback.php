@@ -61,19 +61,19 @@ class StuFeedback extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'stu_feedback_id' => 'Stu Feedback',
-			'stu_number' => 'Stu Number',
-			'stu_name' => 'Stu Name',
+			'stu_feedback_id' => '学生反馈id',
+			'stu_number' => '学生编号',
+			'stu_name' => '学生姓名',
 			'stu_feedback_stat' => 'Stu Feedback Stat',
 			'stu_feedback_term' => 'Stu Feedback Term',
 			'stu_feedback_grade' => 'Stu Feedback Grade',
 			'stu_feedback_class' => 'Stu Feedback Class',
 			'stu_feedback_who' => 'Stu Feedback Who',
-			'stu_feedback_info' => 'Stu Feedback Info',
-			'stu_feedback_image' => 'Stu Feedback Image',
-			'stu_feedback_image2' => 'Stu Feedback Image2',
-			'stu_feedback_image3' => 'Stu Feedback Image3',
-			'stu_feedback_time' => 'Stu Feedback Time',
+			'stu_feedback_info' => '学生反馈信息',
+			'stu_feedback_image' => '学生反馈照片',
+			'stu_feedback_image2' => '学生反馈照片2',
+			'stu_feedback_image3' => '学生反馈照片3',
+			'stu_feedback_time' => '学生反馈时间',
 		);
 	}
 

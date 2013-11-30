@@ -57,14 +57,14 @@ class Msg extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'm_ID' => 'M',
-			'm_name' => 'M Name',
-			'm_mail' => 'M Mail',
-			'm_con' => 'M Con',
-			'm_time' => 'M Time',
-			'm_re' => 'M Re',
-			'm_re_time' => 'M Re Time',
-			'm_city' => 'M City',
+			'm_ID' => '留言id',
+			'm_name' => '留言者姓名',
+			'm_mail' => '留言者邮件',
+			'm_con' => '留言内容',
+			'm_time' => '留言时间',
+			'm_re' => '留言回复',
+			'm_re_time' => '留言回复时间',
+			'm_city' => '留言者所在城市',
 			'm_ip' => 'M Ip',
 		);
 	}
