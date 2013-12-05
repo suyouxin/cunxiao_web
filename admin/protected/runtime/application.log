@@ -3767,3 +3767,661 @@ Stack trace:
 REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
 HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
 ---
+2013/11/28 23:44:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:44:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:49:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:50:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/11/28 23:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "pic/weekmanu.jpg".' in /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('pic/weekmanu.jp...')
+#1 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Users/XX/site/php/oneschool/admin/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.php/pic/weekmanu.jpg
+HTTP_REFERER=http://127.0.0.1:8088/admin/index.php/query/weekreports
+---
+2013/12/01 00:51:35 [error] [php] Undefined variable: news (/Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php:59)
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#1 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php(18): WeekstoryController->renderPartial()
+#2 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#3 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#4 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#5 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(782): WeekstoryController->renderPartial()
+#6 /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php(79): WeekstoryController->render()
+#7 /Users/XX/site/php/oneschool/yii/framework/web/actions/CInlineAction.php(49): WeekstoryController->actionCreate()
+#8 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#9 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(133): WeekstoryController->runAction()
+#10 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#11 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#12 /Users/XX/site/php/oneschool/yii/framework/web/filters/CInlineFilter.php(58): WeekstoryController->filterAccessControl()
+#13 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#14 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(291): CFilterChain->run()
+#15 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(265): WeekstoryController->runActionWithFilters()
+#16 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(282): WeekstoryController->run()
+#17 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#18 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#19 /Users/XX/site/php/oneschool/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/weekstory/create
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php (59)
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php (18)
+in /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php (79)
+2013/12/01 00:53:00 [error] [php] include(/Users/XX/site/php/oneschool/admin/protected/extensions/CJuiDateTimePicker/CJuiDateTimePicker.php): failed to open stream: No such file or directory (/Users/XX/site/php/oneschool/yii/framework/YiiBase.php:404)
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWidgetFactory.php(146): import()
+#1 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget()
+#2 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(180): WeekstoryController->createWidget()
+#3 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php(62): WeekstoryController->widget()
+#4 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#5 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#6 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#7 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php(18): WeekstoryController->renderPartial()
+#8 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#9 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#10 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#11 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(782): WeekstoryController->renderPartial()
+#12 /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php(79): WeekstoryController->render()
+#13 /Users/XX/site/php/oneschool/yii/framework/web/actions/CInlineAction.php(49): WeekstoryController->actionCreate()
+#14 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#15 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(133): WeekstoryController->runAction()
+#16 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#17 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#18 /Users/XX/site/php/oneschool/yii/framework/web/filters/CInlineFilter.php(58): WeekstoryController->filterAccessControl()
+#19 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#20 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(291): CFilterChain->run()
+#21 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(265): WeekstoryController->runActionWithFilters()
+#22 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(282): WeekstoryController->run()
+#23 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#24 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#25 /Users/XX/site/php/oneschool/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/weekstory/create
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php (62)
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php (18)
+in /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php (79)
+2013/12/01 00:58:42 [error] [php] include(/Users/XX/site/php/oneschool/admin/protected/extensions/CJuiDateTimePicker/CJuiDateTimePicker.php): failed to open stream: No such file or directory (/Users/XX/site/php/oneschool/yii/framework/YiiBase.php:404)
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWidgetFactory.php(146): import()
+#1 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget()
+#2 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(180): WeekstoryController->createWidget()
+#3 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php(62): WeekstoryController->widget()
+#4 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#5 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#6 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#7 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php(18): WeekstoryController->renderPartial()
+#8 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#9 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#10 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#11 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(782): WeekstoryController->renderPartial()
+#12 /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php(79): WeekstoryController->render()
+#13 /Users/XX/site/php/oneschool/yii/framework/web/actions/CInlineAction.php(49): WeekstoryController->actionCreate()
+#14 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#15 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(133): WeekstoryController->runAction()
+#16 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#17 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#18 /Users/XX/site/php/oneschool/yii/framework/web/filters/CInlineFilter.php(58): WeekstoryController->filterAccessControl()
+#19 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#20 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(291): CFilterChain->run()
+#21 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(265): WeekstoryController->runActionWithFilters()
+#22 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(282): WeekstoryController->run()
+#23 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#24 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#25 /Users/XX/site/php/oneschool/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/weekstory/create
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php (62)
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php (18)
+in /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php (79)
+2013/12/01 00:58:47 [error] [php] include(/Users/XX/site/php/oneschool/admin/protected/extensions/CJuiDateTimePicker/CJuiDateTimePicker.php): failed to open stream: No such file or directory (/Users/XX/site/php/oneschool/yii/framework/YiiBase.php:404)
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWidgetFactory.php(146): import()
+#1 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget()
+#2 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(180): WeekstoryController->createWidget()
+#3 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php(62): WeekstoryController->widget()
+#4 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#5 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#6 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#7 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php(18): WeekstoryController->renderPartial()
+#8 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#9 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#10 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#11 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(782): WeekstoryController->renderPartial()
+#12 /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php(79): WeekstoryController->render()
+#13 /Users/XX/site/php/oneschool/yii/framework/web/actions/CInlineAction.php(49): WeekstoryController->actionCreate()
+#14 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#15 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(133): WeekstoryController->runAction()
+#16 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#17 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#18 /Users/XX/site/php/oneschool/yii/framework/web/filters/CInlineFilter.php(58): WeekstoryController->filterAccessControl()
+#19 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#20 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(291): CFilterChain->run()
+#21 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(265): WeekstoryController->runActionWithFilters()
+#22 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(282): WeekstoryController->run()
+#23 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#24 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#25 /Users/XX/site/php/oneschool/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/weekstory/create
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php (62)
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php (18)
+in /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php (79)
+2013/12/01 00:58:48 [error] [php] include(/Users/XX/site/php/oneschool/admin/protected/extensions/CJuiDateTimePicker/CJuiDateTimePicker.php): failed to open stream: No such file or directory (/Users/XX/site/php/oneschool/yii/framework/YiiBase.php:404)
+Stack trace:
+#0 /Users/XX/site/php/oneschool/yii/framework/web/CWidgetFactory.php(146): import()
+#1 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget()
+#2 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(180): WeekstoryController->createWidget()
+#3 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php(62): WeekstoryController->widget()
+#4 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#5 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#6 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#7 /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php(18): WeekstoryController->renderPartial()
+#8 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(126): require()
+#9 /Users/XX/site/php/oneschool/yii/framework/web/CBaseController.php(95): WeekstoryController->renderInternal()
+#10 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(869): WeekstoryController->renderFile()
+#11 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(782): WeekstoryController->renderPartial()
+#12 /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php(79): WeekstoryController->render()
+#13 /Users/XX/site/php/oneschool/yii/framework/web/actions/CInlineAction.php(49): WeekstoryController->actionCreate()
+#14 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#15 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(133): WeekstoryController->runAction()
+#16 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#17 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#18 /Users/XX/site/php/oneschool/yii/framework/web/filters/CInlineFilter.php(58): WeekstoryController->filterAccessControl()
+#19 /Users/XX/site/php/oneschool/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#20 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(291): CFilterChain->run()
+#21 /Users/XX/site/php/oneschool/yii/framework/web/CController.php(265): WeekstoryController->runActionWithFilters()
+#22 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(282): WeekstoryController->run()
+#23 /Users/XX/site/php/oneschool/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#24 /Users/XX/site/php/oneschool/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#25 /Users/XX/site/php/oneschool/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/weekstory/create
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/_form.php (62)
+in /Users/XX/site/php/oneschool/admin/protected/views/weekstory/create.php (18)
+in /Users/XX/site/php/oneschool/admin/protected/controllers/WeekstoryController.php (79)
