@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /**
  * This is the model class for table "case_offer".
@@ -74,32 +74,32 @@ class CaseOffer extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'case_id' => 'ÏîÄ¿id',
-			'case_no' => 'ÏîÄ¿ No',
-			'case_name' => 'ÏîÄ¿Ãû³Æ',
-			'case_schoolname' => 'Õë¶ÔÑ§Ð£',
-			'case_class' => 'Õë¶Ô°à¼¶',
+			'case_id' => 'é¡¹ç›®id',
+			'case_no' => 'é¡¹ç›® No',
+			'case_name' => 'é¡¹ç›®åç§°',
+			'case_schoolname' => 'é’ˆå¯¹å­¦æ ¡',
+			'case_class' => 'é’ˆå¯¹ç­çº§',
 			'case_member_up' => 'Case Member Up',
-			'case_member_lead' => 'ÏîÄ¿¹ÜÀíÈËÔ±',
-			'case_member_do' => 'ÏîÄ¿Ö´ÐÐÈËÔ±',
-			'case_intro' => 'ÏîÄ¿½éÉÜ',
-			'case_title_pic' => 'ÏîÄ¿±êÌâÍ¼Æ¬',
-			'case_pic' => 'ÏîÄ¿Í¼Æ¬',
-			'case_plan' => 'ÏîÄ¿¼Æ»®',
-			'case_budget' => 'ÏîÄ¿Ô¤Ëã',
-			'case_use' => 'ÏîÄ¿Ê¹ÓÃ',
-			'case_expect' => 'ÏîÄ¿ÆÚÍû',
-			'case_blog' => 'ÏîÄ¿²©¿Í',
+			'case_member_lead' => 'é¡¹ç›®ç®¡ç†äººå‘˜',
+			'case_member_do' => 'é¡¹ç›®æ‰§è¡Œäººå‘˜',
+			'case_intro' => 'é¡¹ç›®ä»‹ç»',
+			'case_title_pic' => 'é¡¹ç›®æ ‡é¢˜å›¾ç‰‡',
+			'case_pic' => 'é¡¹ç›®å›¾ç‰‡',
+			'case_plan' => 'é¡¹ç›®è®¡åˆ’',
+			'case_budget' => 'é¡¹ç›®é¢„ç®—',
+			'case_use' => 'é¡¹ç›®ä½¿ç”¨',
+			'case_expect' => 'é¡¹ç›®æœŸæœ›',
+			'case_blog' => 'é¡¹ç›®åšå®¢',
 			'case_offer_name' => 'Case Offer Name',
 			'case_offer_tel' => 'Case Offer Tel',
 			'case_offer_email' => 'Case Offer Email',
-			'case_report' => 'ÏîÄ¿±¨¸æ',
+			'case_report' => 'é¡¹ç›®æŠ¥å‘Š',
 			'case_spend' => 'Case Spend',
-			'case_do_state' => 'ÏîÄ¿ÊµÐÐÇé¿ö',
-			'case_maney_state' => 'ÏîÄ¿×Ê½ð×´¿ö',
+			'case_do_state' => 'é¡¹ç›®å®žè¡Œæƒ…å†µ',
+			'case_maney_state' => 'é¡¹ç›®èµ„é‡‘çŠ¶å†µ',
 			'case_ps' => 'Case Ps',
 			'case_time' => 'Case Time',
-			'case_autotime' => 'ÏîÄ¿Ê±¼ä',
+			'case_autotime' => 'é¡¹ç›®æ—¶é—´',
 		);
 	}
 

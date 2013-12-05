@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /**
  * This is the model class for table "stu_feedback".
@@ -61,19 +61,19 @@ class StuFeedback extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'stu_feedback_id' => 'Ñ§Éú·´À¡id',
-			'stu_number' => 'Ñ§Éú±àºÅ',
-			'stu_name' => 'Ñ§ÉúÐÕÃû',
+			'stu_feedback_id' => 'å­¦ç”Ÿåé¦ˆid',
+			'stu_number' => 'å­¦ç”Ÿç¼–å·',
+			'stu_name' => 'å­¦ç”Ÿå§“å',
 			'stu_feedback_stat' => 'Stu Feedback Stat',
 			'stu_feedback_term' => 'Stu Feedback Term',
 			'stu_feedback_grade' => 'Stu Feedback Grade',
 			'stu_feedback_class' => 'Stu Feedback Class',
 			'stu_feedback_who' => 'Stu Feedback Who',
-			'stu_feedback_info' => 'Ñ§Éú·´À¡ÐÅÏ¢',
-			'stu_feedback_image' => 'Ñ§Éú·´À¡ÕÕÆ¬',
-			'stu_feedback_image2' => 'Ñ§Éú·´À¡ÕÕÆ¬2',
-			'stu_feedback_image3' => 'Ñ§Éú·´À¡ÕÕÆ¬3',
-			'stu_feedback_time' => 'Ñ§Éú·´À¡Ê±¼ä',
+			'stu_feedback_info' => 'å­¦ç”Ÿåé¦ˆä¿¡æ¯',
+			'stu_feedback_image' => 'å­¦ç”Ÿåé¦ˆç…§ç‰‡',
+			'stu_feedback_image2' => 'å­¦ç”Ÿåé¦ˆç…§ç‰‡2',
+			'stu_feedback_image3' => 'å­¦ç”Ÿåé¦ˆç…§ç‰‡3',
+			'stu_feedback_time' => 'å­¦ç”Ÿåé¦ˆæ—¶é—´',
 		);
 	}
 

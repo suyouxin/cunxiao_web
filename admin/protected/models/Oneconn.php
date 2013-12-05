@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /**
  * This is the model class for table "oneconn".
@@ -55,13 +55,13 @@ class Oneconn extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'one_id' => '×ÊÖúÈËid',
-			'one_name' => '×ÊÖúÈËÐÕÃû',
-			'one_city' => '×ÊÖúÈË³ÇÊÐ',
-			'one_email' => '×ÊÖúÈËÓÊ¼þ',
-			'one_tel' => '×ÊÖúÈËµç»°',
-			'one_stu_id' => '±»×ÊÖúÑ§Éúid',
-			'one_time' => 'Ìá½»×ÊÖúÉêÇëÊ±¼ä',
+			'one_id' => 'èµ„åŠ©äººid',
+			'one_name' => 'èµ„åŠ©äººå§“å',
+			'one_city' => 'èµ„åŠ©äººåŸŽå¸‚',
+			'one_email' => 'èµ„åŠ©äººé‚®ä»¶',
+			'one_tel' => 'èµ„åŠ©äººç”µè¯',
+			'one_stu_id' => 'è¢«èµ„åŠ©å­¦ç”Ÿid',
+			'one_time' => 'æäº¤èµ„åŠ©ç”³è¯·æ—¶é—´',
 		);
 	}
 

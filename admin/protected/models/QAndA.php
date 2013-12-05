@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /**
  * This is the model class for table "Q_and_A".
@@ -58,15 +58,15 @@ class QAndA extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'QA_id' => 'ÎÊ´ðid',
+			'QA_id' => 'é—®ç­”id',
 			'QA_no' => 'Qa No',
-			'QA_qustion' => 'ÎÊÌâ',
-			'QA_answer' => '»Ø´ð',
-			'QA_KEY_1' => 'ÎÊ´ð¹Ø¼ü´Ê 1',
-			'QA_KEY_2' => 'ÎÊ´ð¹Ø¼ü´Ê 2',
-			'QA_KEY_3' => 'ÎÊ´ð¹Ø¼ü´Ê 3',
+			'QA_qustion' => 'é—®é¢˜',
+			'QA_answer' => 'å›žç­”',
+			'QA_KEY_1' => 'é—®ç­”å…³é”®è¯ 1',
+			'QA_KEY_2' => 'é—®ç­”å…³é”®è¯ 2',
+			'QA_KEY_3' => 'é—®ç­”å…³é”®è¯ 3',
 			'QA_TEMP' => 'Qa Temp',
-			'QA_time' => 'ÎÊ´ðÊ±¼ä',
+			'QA_time' => 'é—®ç­”æ—¶é—´',
 			'QA_who' => 'Qa Who',
 		);
 	}

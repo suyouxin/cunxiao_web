@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /**
  * This is the model class for table "sportconn".
@@ -54,12 +54,12 @@ class Sportconn extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'sp_id' => 'ÌåÓý½Çid',
-			'sp_name' => 'ÌåÓý½Ç¾è¿îÈËÐÕÃû',
-			'sp_city' => 'ÌåÓý½Ç¾è¿îÈË³ÇÊÐ',
-			'sp_email' => 'ÌåÓý½Ç¾è¿îÈËÓÊ¼þ',
-			'sp_tel' => 'ÌåÓý½Ç¾è¿îÈËµç»°',
-			'sp_time' => 'ÌåÓý½Ç¾è¿îÊ±¼ä',
+			'sp_id' => 'ä½“è‚²è§’id',
+			'sp_name' => 'ä½“è‚²è§’ææ¬¾äººå§“å',
+			'sp_city' => 'ä½“è‚²è§’ææ¬¾äººåŸŽå¸‚',
+			'sp_email' => 'ä½“è‚²è§’ææ¬¾äººé‚®ä»¶',
+			'sp_tel' => 'ä½“è‚²è§’ææ¬¾äººç”µè¯',
+			'sp_time' => 'ä½“è‚²è§’ææ¬¾æ—¶é—´',
 		);
 	}
 

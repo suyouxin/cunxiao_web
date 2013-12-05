@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /**
  * This is the model class for table "libraryconn".
@@ -60,13 +60,13 @@ class Libraryconn extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'li_id' => 'Í¼ÊéÊÒid',
-			'li_name' => 'Í¼ÊéÊÒ¾èÖúÈËÐÕÃû',
-			'li_city' => 'Í¼ÊéÊÒ¾èÖúÈËËùÔÚ³ÇÊÐ',
-			'li_email' => 'Í¼ÊéÊÒ¾èÖúÈËÓÊ¼þ',
-			'li_tel' => 'Í¼ÊéÊÒ¾èÖúÈËµç»°',
-			'li_job' => 'Í¼ÊéÊÒÆóÒµ¾èÖú',
-			'li_time' => 'Í¼ÊéÊÒ¾èÖúÊ±¼ä',
+			'li_id' => 'å›¾ä¹¦å®¤id',
+			'li_name' => 'å›¾ä¹¦å®¤æåŠ©äººå§“å',
+			'li_city' => 'å›¾ä¹¦å®¤æåŠ©äººæ‰€åœ¨åŸŽå¸‚',
+			'li_email' => 'å›¾ä¹¦å®¤æåŠ©äººé‚®ä»¶',
+			'li_tel' => 'å›¾ä¹¦å®¤æåŠ©äººç”µè¯',
+			'li_job' => 'å›¾ä¹¦å®¤ä¼ä¸šæåŠ©',
+			'li_time' => 'å›¾ä¹¦å®¤æåŠ©æ—¶é—´',
 			'li_do_1' => 'Li Do 1',
 			'li_do_2' => 'Li Do 2',
 			'li_do_3' => 'Li Do 3',

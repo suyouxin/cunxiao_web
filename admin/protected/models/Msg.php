@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /**
  * This is the model class for table "msg".
@@ -57,14 +57,14 @@ class Msg extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'm_ID' => 'ÁôÑÔid',
-			'm_name' => 'ÁôÑÔÕßÐÕÃû',
-			'm_mail' => 'ÁôÑÔÕßÓÊ¼þ',
-			'm_con' => 'ÁôÑÔÄÚÈÝ',
-			'm_time' => 'ÁôÑÔÊ±¼ä',
-			'm_re' => 'ÁôÑÔ»Ø¸´',
-			'm_re_time' => 'ÁôÑÔ»Ø¸´Ê±¼ä',
-			'm_city' => 'ÁôÑÔÕßËùÔÚ³ÇÊÐ',
+			'm_ID' => 'ç•™è¨€id',
+			'm_name' => 'ç•™è¨€è€…å§“å',
+			'm_mail' => 'ç•™è¨€è€…é‚®ä»¶',
+			'm_con' => 'ç•™è¨€å†…å®¹',
+			'm_time' => 'ç•™è¨€æ—¶é—´',
+			'm_re' => 'ç•™è¨€å›žå¤',
+			'm_re_time' => 'ç•™è¨€å›žå¤æ—¶é—´',
+			'm_city' => 'ç•™è¨€è€…æ‰€åœ¨åŸŽå¸‚',
 			'm_ip' => 'M Ip',
 		);
 	}

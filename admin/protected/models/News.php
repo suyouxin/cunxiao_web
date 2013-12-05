@@ -1,4 +1,4 @@
-<?php
+ï»¿<?php
 
 /**
  * This is the model class for table "news".
@@ -53,11 +53,11 @@ class News extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'new_id' => 'ÐÂÎÅid',
-			'new_time' => 'ÐÂÎÅ·¢±íÊ±¼ä',
-			'new_writ' => 'ÐÂÎÅ×÷Õß',
-			'new_title' => 'ÐÂÎÅ±êÌâ',
-			'new_con' => 'ÐÂÎÅÄÚÈÝ',
+			'new_id' => 'æ–°é—»id',
+			'new_time' => 'æ–°é—»å‘è¡¨æ—¶é—´',
+			'new_writ' => 'æ–°é—»ä½œè€…',
+			'new_title' => 'æ–°é—»æ ‡é¢˜',
+			'new_con' => 'æ–°é—»å†…å®¹',
 		);
 	}
 
