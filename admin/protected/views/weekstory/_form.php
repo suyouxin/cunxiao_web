@@ -51,7 +51,13 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'week_time'); ?>
-		<?php echo $form->textField($model,'week_time'); ?>
+		<?php Yii::import('application.extensions.CJuiDateTimePicker.CJuiDateTimePicker');
+		$this->widget('CJuiDateTimePicker',array(
+        'model'=>$model, //Model object
+        'attribute'=>'week_time', //attribute name
+		'mode'=>'datetime' //use "time","date" or "datetime" (default)
+		));
+		?>
 		<?php echo $form->error($model,'week_time'); ?>
 	</div>
 
