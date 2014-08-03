@@ -103,7 +103,7 @@ function SetWinHeight(obj)
   </tr>
   <tr>
    <td colspan="4"><!-- InstanceBeginEditable name="EditRegion1" --><img src="/pic/helpchild/helpchild-1_r3_c1.jpg" width="736" height="23" border="0" usemap="#helpchild-1_r3_c1map" id="helpchild-1_r3_c1"/>
-<map name="helpchild-1_r3_c1map" id="helpchild-1_r3_c1map"><area shape="rect" coords="4,3,85,30" href="/plant/one2one/helpchild.php" target="_parent" /><area shape="rect" coords="179,3,253,34" href="/msg/admin/stu/stu.php" target="_blank" />
+<map name="helpchild-1_r3_c1map" id="helpchild-1_r3_c1map"><area shape="rect" coords="4,3,85,30" href="/plant/one2one/helpchild.php" target="_parent" /><area shape="rect" coords="179,3,253,34" href="/stu/stu_funded.php" target="_blank" />
 <area shape="rect" coords="263,2,335,37" href="/plant/one2one/helpchild_3.php" target="_parent" />
 </map>
    <map name="helpchildMap" id="helpchild"></map>

@@ -1,0 +1,12 @@
+.stuline {
+	border-bottom-width: thin;
+	border-bottom-style: none;
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #666666;
+}
+.stuline_down {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #666666;
+}

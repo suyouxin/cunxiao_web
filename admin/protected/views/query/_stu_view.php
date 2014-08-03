@@ -1,6 +1,8 @@
 <?php
 /* @var $this StuOfferController */
 /* @var $data StuOffer */
+
+$detailPage = '/admin/index.php/query/stu_detail?stu_id='.$data->stu_id;
 ?>
 
 <div class="view">
@@ -16,7 +18,7 @@
 			<?php echo CHtml::encode($data->stu_school); ?>
 			&nbsp;&nbsp;&nbsp;&nbsp;
 			<?php echo CHtml::encode($data->stu_grade); ?>
-			&nbsp;&nbsp;&nbsp;<span class="STYLE1"><strong>（</strong></span><A HREF="/plant/one2one/o2otable.asp?stu_number=2427" target="_blank" class="STYLE2">我要资助</A><span class="STYLE1"><strong>）</strong></span></p>
+			&nbsp;&nbsp;&nbsp;<span class="STYLE1"><strong>（</strong></span><A HREF="<?php echo '/admin/index.php/query/fund_request?stu_id='.$data->stu_id; ?>" target="_blank" class="STYLE2">我要资助</A><span class="STYLE1"><strong>）</strong></span></p>
 			<p>
 			<?php echo CHtml::encode($data->stu_base); ?>
 			</p></td>

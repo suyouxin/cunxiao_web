@@ -187,6 +187,6 @@ a:active {
   </tr>
 </table>
 
-<map name="Map" id="Map"><area shape="rect" coords="1,1,82,31" href="helpchild.php" target="_blank" /><area shape="rect" coords="92,1,167,32" href="helpchild_1.php" target="_blank" /><area shape="rect" coords="176,0,247,32" href="../../msg/admin/stu/stu.php" target="_blank" /><area shape="rect" coords="260,1,326,23" href="helpchild_3.php" target="_parent" />
+<map name="Map" id="Map"><area shape="rect" coords="1,1,82,31" href="helpchild.php" target="_blank" /><area shape="rect" coords="92,1,167,32" href="helpchild_1.php" target="_blank" /><area shape="rect" coords="176,0,247,32" href="/stu/stu_funded.php" target="_blank" /><area shape="rect" coords="260,1,326,23" href="helpchild_3.php" target="_parent" />
 </map></body>
 </html>
