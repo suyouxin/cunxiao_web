@@ -1,0 +1,10 @@
+.mystu {
+	font-family: "华文细黑";
+	color: #999999;
+	float: left;
+	table-layout: fixed;
+	word-break:break-all;
+	word-wrap:break-word;
+	
+	
+}

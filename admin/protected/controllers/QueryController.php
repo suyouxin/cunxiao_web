@@ -28,7 +28,7 @@ class QueryController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('stuwait', 'news', 'weekreports'),
+				'actions'=>array('stuwait', 'news', 'weekreports', 'stufunded', 'mystu', 'stu_detail', 'fund_request'),
 				'users'=>array('*'),
 			),
 			array('deny',  // deny all users
@@ -40,9 +40,13 @@ class QueryController extends Controller
 	public function actions()
 	{
 		return array(
+			'stu_detail'=>'application.controllers.query.StudetailAction',
+			'mystu'=>'application.controllers.query.MystuAction',
+			'stufunded'=>'application.controllers.query.StufundedAction',
 			'stuwait'=>'application.controllers.query.StuwaitAction',
 			'news'=>'application.controllers.query.NewsAction',
 			'weekreports'=>'application.controllers.query.WeekreportsAction',
+			'fund_request'=>'application.controllers.query.FundrequestAction',
 		);
 	}
 }

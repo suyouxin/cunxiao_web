@@ -183,7 +183,7 @@ a:active {
   <?php include('../../foot_logo.html');?>
 </table>
 
-<map name="Map" id="Map"><area shape="rect" coords="1,2,84,24" href="helpchild.php" target="_blank" /><area shape="rect" coords="93,1,169,28" href="helpchild_1.php" target="_parent" /><area shape="rect" coords="174,1,247,25" href="../../msg/admin/stu/stu.php" target="_blank" />
+<map name="Map" id="Map"><area shape="rect" coords="1,2,84,24" href="helpchild.php" target="_blank" /><area shape="rect" coords="93,1,169,28" href="helpchild_1.php" target="_parent" /><area shape="rect" coords="174,1,247,25" href="/stu/stu_funded.php" target="_blank" />
 <area shape="rect" coords="258,1,324,28" href="helpchild_3.php" target="_blank" />
 </map></body>
 </html>
