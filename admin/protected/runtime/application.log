@@ -4500,3 +4500,113 @@ Stack trace:
 REQUEST_URI=/admin/index.php/query/weekreports
 HTTP_REFERER=http://test.cunxiao.org:3000/index.php
 ---
+2014/08/04 00:12:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "spacer.gif".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('spacer.gif')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('spacer.gif')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/spacer.gi...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/spacer.gif
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3577
+---
+2014/08/04 00:12:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "o2otable_r7_c3.jpg".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('o2otable_r7_c3....')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('o2otable_r7_c3....')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/o2otable_...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/o2otable_r7_c3.jpg
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3577
+---
+2014/08/04 00:12:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "spacer.gif".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('spacer.gif')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('spacer.gif')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/spacer.gi...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/spacer.gif
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3577
+---
+2014/08/04 00:12:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "o2otable_r7_c3.jpg".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('o2otable_r7_c3....')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('o2otable_r7_c3....')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/o2otable_...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/o2otable_r7_c3.jpg
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3577
+---
+2014/08/04 00:12:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "o2otable_r7_c3.jpg".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('o2otable_r7_c3....')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('o2otable_r7_c3....')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/o2otable_...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/o2otable_r7_c3.jpg
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3577
+---
+2014/08/04 00:12:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "spacer.gif".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('spacer.gif')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('spacer.gif')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/spacer.gi...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/spacer.gif
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3577
+---
+2014/08/04 00:12:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "o2otable_r7_c3.jpg".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('o2otable_r7_c3....')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('o2otable_r7_c3....')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/o2otable_...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/o2otable_r7_c3.jpg
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3718
+---
+2014/08/04 00:12:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "spacer.gif".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('spacer.gif')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('spacer.gif')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/spacer.gi...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/spacer.gif
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3718
+---
+2014/08/04 00:12:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "spacer.gif".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('spacer.gif')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('spacer.gif')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/spacer.gi...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/spacer.gif
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3718
+---
+2014/08/04 00:12:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "o2otable_r7_c3.jpg".' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('o2otable_r7_c3....')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('o2otable_r7_c3....')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('query/o2otable_...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/query/o2otable_r7_c3.jpg
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3718
+---

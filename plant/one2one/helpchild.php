@@ -155,7 +155,7 @@ function SetWinHeight(obj)
      <p class="STYLE1">4、一对一捐助，我们如何在做。</p>
      <table width="736" border="0">
        <tr>
-         <td width="200"><p><a href="aboutwork_1.php" target="_blank"><img src="images/aboutwork/_MG_6018.JPG" width="200" height="133" border="0" /></a></p>          </td>
+         <td width="200"><p><a href="aboutwork_1.php" target="_blank"><img src="/pic/aboutwork/_MG_6018.JPG" width="200" height="133" border="0" /></a></p>          </td>
          <td width="219">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="aboutwork_1.php" target="_blank">学生资料是怎么来的 &gt;&gt; </a></td>
          <td width="121">&nbsp;</td>
          <td width="178">&nbsp;</td>
@@ -167,7 +167,7 @@ function SetWinHeight(obj)
          <td width="178">&nbsp;</td>
        </tr>
        <tr>
-         <td><a href="aboutwork_2.php" target="_blank"><img src="images/aboutwork/_MG_6195.JPG" width="200" height="133" border="0" /></a></td>
+         <td><a href="aboutwork_2.php" target="_blank"><img src="/pic/aboutwork/_MG_6195.JPG" width="200" height="133" border="0" /></a></td>
          <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="aboutwork_2.php" target="_blank">捐助，如何进行 &gt;&gt; </a></td>
          <td>&nbsp;</td>
          <td>&nbsp;</td>
