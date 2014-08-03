@@ -16,12 +16,12 @@
 
     <br />
 
-  <table border="0" width="51%" align="center">
 	<?php 
 		$this->widget('zii.widgets.CListView', array(
 		'dataProvider'=>$dataProvider,
 		'itemView'=>'_week_view',
 		'template' => '{items}{pager}',
+		'pagerCssClass' => 'week_page_class',
 		'pager' => array(
 			'class' => 'CLinkPager',
 			'nextPageLabel' => '往期',
@@ -31,7 +31,6 @@
 			),
 		)); 
 	?>
-  </table>
 
   <p>&nbsp;</p>
   <table width="753" align="center">
