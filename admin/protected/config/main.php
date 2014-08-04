@@ -8,6 +8,7 @@
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'壹个村小 后台管理',
+	'language' => 'zh_cn',
 
 	// preloading 'log' component
 	'preload'=>array('log'),

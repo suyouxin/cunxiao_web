@@ -20,12 +20,6 @@
 	<?php echo $form->errorSummary($model); ?>
 
 	<div class="row">
-		<?php echo $form->labelEx($model,'stu_id'); ?>
-		<?php echo $form->textField($model,'stu_id'); ?>
-		<?php echo $form->error($model,'stu_id'); ?>
-	</div>
-
-	<div class="row">
 		<?php echo $form->labelEx($model,'stu_number'); ?>
 		<?php echo $form->textArea($model,'stu_number',array('rows'=>6, 'cols'=>50)); ?>
 		<?php echo $form->error($model,'stu_number'); ?>

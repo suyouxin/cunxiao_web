@@ -4,31 +4,48 @@
 ?>
 
 <div class="view">
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_id')); ?>:</b>
-	<?php echo CHtml::link(CHtml::encode($data->stu_id), array('view', 'id'=>$data->stu_id)); ?>
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_name')); ?>:</b>
+	<?php echo CHtml::link(CHtml::encode($data->stu_name), array('view', 'id'=>$data->stu_id)); ?>
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_number')); ?>:</b>
 	<?php echo CHtml::encode($data->stu_number); ?>
 	<br />
 
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_name')); ?>:</b>
-	<?php echo CHtml::encode($data->stu_name); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_offer_wait')); ?>:</b>
-	<?php echo CHtml::encode($data->stu_offer_wait); ?>
-	<br />
-
 	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_school')); ?>:</b>
 	<?php echo CHtml::encode($data->stu_school); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_grade')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_grade); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_class')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_class); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_integer')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_integer); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_maney')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_maney); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_add')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_add); ?>
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_base')); ?>:</b>
 	<?php echo CHtml::encode($data->stu_base); ?>
 	<br />
 
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_inq')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_inq); ?>
+	<br />
+
+	<?php echo $data->stu_imag; ?>
+	<br />
 	<?php /*
 	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_add')); ?>:</b>
 	<?php echo CHtml::encode($data->stu_add); ?>

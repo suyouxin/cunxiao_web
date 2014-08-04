@@ -4,7 +4,7 @@
 $this->pageTitle=Yii::app()->name;
 ?>
 
-<p><?php echo CHtml::link(CHtml::encode('学生信息管理'), CHtml::encode('/admin/index.php/stuOffer/admin')); ?></p>
+<p><?php echo CHtml::link(CHtml::encode('一对一捐助学生资料管理'), CHtml::encode('/admin/index.php/stuOffer/index')); ?></p>
 <p><?php echo CHtml::link(CHtml::encode('项目信息管理'), CHtml::encode('/admin/index.php/caseInfo/admin')); ?></p>
 <p><?php echo CHtml::link(CHtml::encode('项目信息管理2'), CHtml::encode('/admin/index.php/caseOffer/admin')); ?></p>
 <p><?php echo CHtml::link(CHtml::encode('图书馆捐助管理'), CHtml::encode('/admin/index.php/libraryconn/admin')); ?></p>

@@ -17,6 +17,31 @@
 	<?php echo CHtml::encode($data->stu_name); ?>
 	<br />
 
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_info')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_feedback_info); ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_image')); ?>:</b>
+	<?php echo $data->stu_feedback_image; ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_image2')); ?>:</b>
+	<?php echo $data->stu_feedback_image2; ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_image3')); ?>:</b>
+	<?php echo $data->stu_feedback_image3; ?>
+	<br />
+
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_time')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_feedback_time); ?>
+	<br />
+
+	<?php /*
+	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_who')); ?>:</b>
+	<?php echo CHtml::encode($data->stu_feedback_who); ?>
+	<br />
+
 	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_stat')); ?>:</b>
 	<?php echo CHtml::encode($data->stu_feedback_stat); ?>
 	<br />
@@ -33,30 +58,6 @@
 	<?php echo CHtml::encode($data->stu_feedback_class); ?>
 	<br />
 
-	<?php /*
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_who')); ?>:</b>
-	<?php echo CHtml::encode($data->stu_feedback_who); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_info')); ?>:</b>
-	<?php echo CHtml::encode($data->stu_feedback_info); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_image')); ?>:</b>
-	<?php echo CHtml::encode($data->stu_feedback_image); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_image2')); ?>:</b>
-	<?php echo CHtml::encode($data->stu_feedback_image2); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_image3')); ?>:</b>
-	<?php echo CHtml::encode($data->stu_feedback_image3); ?>
-	<br />
-
-	<b><?php echo CHtml::encode($data->getAttributeLabel('stu_feedback_time')); ?>:</b>
-	<?php echo CHtml::encode($data->stu_feedback_time); ?>
-	<br />
 
 	*/ ?>
 

@@ -48,17 +48,17 @@ or <b>=</b>) at the beginning of each of your search values to specify how the c
 		'stu_feedback_id',
 		'stu_number',
 		'stu_name',
+		'stu_feedback_info',
+		'stu_feedback_time',
+		/*
 		'stu_feedback_stat',
 		'stu_feedback_term',
 		'stu_feedback_grade',
-		/*
 		'stu_feedback_class',
 		'stu_feedback_who',
-		'stu_feedback_info',
 		'stu_feedback_image',
 		'stu_feedback_image2',
 		'stu_feedback_image3',
-		'stu_feedback_time',
 		*/
 		array(
 			'class'=>'CButtonColumn',

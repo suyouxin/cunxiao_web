@@ -3,16 +3,16 @@
 /* @var $dataProvider CActiveDataProvider */
 
 $this->breadcrumbs=array(
-	'学生资料',
+	'一对一捐助学生资料',
 );
 
 $this->menu=array(
-	array('label'=>'创建', 'url'=>array('create')),
-	array('label'=>'管理', 'url'=>array('admin')),
+	array('label'=>'学生资料管理面板', 'url'=>array('admin')),
+	array('label'=>'添加新资料', 'url'=>array('create')),
 );
 ?>
 
-<h1>Stu Offers</h1>
+<div id="logo">学生基本资料</div>
 
 <?php $this->widget('zii.widgets.CListView', array(
 	'dataProvider'=>$dataProvider,

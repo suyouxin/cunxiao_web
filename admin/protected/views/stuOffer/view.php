@@ -8,15 +8,13 @@ $this->breadcrumbs=array(
 );
 
 $this->menu=array(
-	array('label'=>'浏览', 'url'=>array('index')),
-	array('label'=>'创建', 'url'=>array('create')),
 	array('label'=>'更新', 'url'=>array('update', 'id'=>$model->stu_id)),
 	array('label'=>'删除', 'url'=>'#', 'linkOptions'=>array('submit'=>array('delete','id'=>$model->stu_id),'confirm'=>'Are you sure you want to delete this item?')),
-	array('label'=>'管理', 'url'=>array('admin')),
+	array('label'=>'返回管理面板', 'url'=>array('admin')),
 );
 ?>
 
-<h1>View StuOffer #<?php echo $model->stu_id; ?></h1>
+<div id="logo">查看学生详细资料</div>
 
 <?php $this->widget('zii.widgets.CDetailView', array(
 	'data'=>$model,
@@ -38,6 +36,20 @@ $this->menu=array(
 		'stu_class',
 		'stu_offer_wait',
 		'stu_inq',
+		'stu_maney',
+		'stu_1',
+		'stu_2',
+		'stu_3',
+		'stu_work_process',
+		'stu_timenow',
+	),
+)); ?>
+
+<div id="logo">捐助者信息</div>
+
+<?php $this->widget('zii.widgets.CDetailView', array(
+	'data'=>$model,
+	'attributes'=>array(
 		'stu_offer_name',
 		'stu_offer_time',
 		'stu_offer_mail_time',
@@ -47,12 +59,34 @@ $this->menu=array(
 		'stu_offer_tel',
 		'stu_offer_city',
 		'stu_offer_add',
-		'stu_maney',
 		'stu_integer',
-		'stu_1',
-		'stu_2',
-		'stu_3',
-		'stu_work_process',
-		'stu_timenow',
 	),
 )); ?>
+
+<div id="logo">学生反馈信息</div>
+
+<?php $this->widget('zii.widgets.CDetailView', array(
+	'data'=>$feedback,
+	'attributes'=>array(
+		'stu_number',
+		'stu_name',
+		'stu_feedback_info',
+		array(
+		'label' => '照片1',
+		'type'=>'raw',
+		'value' => CHtml::decode($feedback->stu_feedback_image)
+			),
+		array(
+		'label' => '照片2',
+		'type'=>'raw',
+		'value' => CHtml::decode($feedback->stu_feedback_image2)
+			),
+		array(
+		'label' => '照片3',
+		'type'=>'raw',
+		'value' => CHtml::decode($feedback->stu_feedback_image3)
+			),
+		'stu_feedback_time',
+	),
+)); ?>
+

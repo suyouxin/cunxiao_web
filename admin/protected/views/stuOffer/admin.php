@@ -3,13 +3,13 @@
 /* @var $model StuOffer */
 
 $this->breadcrumbs=array(
-	'学生资料'=>array('index'),
+	'一对一捐助学生资料'=>array('index'),
 	'管理',
 );
 
 $this->menu=array(
-	array('label'=>'浏览', 'url'=>array('index')),
-	array('label'=>'创建', 'url'=>array('create')),
+	array('label'=>'学生基本资料', 'url'=>array('index')),
+	array('label'=>'添加新资料', 'url'=>array('create')),
 );
 
 Yii::app()->clientScript->registerScript('search', "
@@ -25,8 +25,7 @@ $('.search-form form').submit(function(){
 });
 ");
 ?>
-
-<h1>Manage Stu Offers</h1>
+<div id="logo">学生资料管理面板</div>
 
 <p>
 You may optionally enter a comparison operator (<b>&lt;</b>, <b>&lt;=</b>, <b>&gt;</b>, <b>&gt;=</b>, <b>&lt;&gt;</b>
@@ -46,16 +45,25 @@ or <b>=</b>) at the beginning of each of your search values to specify how the c
 	'filter'=>$model,
 	'columns'=>array(
 		'stu_number',
-		'stu_offer_wait',
+		array(
+			'name'=>'stu_offer_wait',
+			'value'=>$model->stu_offer_wait,
+			'filter'=>CHtml::dropDownList(
+					'状态过滤',
+					$model->stu_offer_wait,
+					array('' => '全部', '不显示' => '不显示')
+				),
+		),
 		'stu_name',
 		'stu_school',
-		'stu_base',
+		'stu_offer_time',
 		/*
 		'stu_id',
 		'stu_sex',
 		'stu_born',
 		'stu_add',
 		'stu_imag',
+		'stu_base',
 		'stu_grade',
 		'stu_class',
 		'stu_inq',

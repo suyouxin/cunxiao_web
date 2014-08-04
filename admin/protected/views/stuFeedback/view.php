@@ -24,15 +24,22 @@ $this->menu=array(
 		'stu_feedback_id',
 		'stu_number',
 		'stu_name',
-		'stu_feedback_stat',
-		'stu_feedback_term',
-		'stu_feedback_grade',
-		'stu_feedback_class',
-		'stu_feedback_who',
 		'stu_feedback_info',
-		'stu_feedback_image',
-		'stu_feedback_image2',
-		'stu_feedback_image3',
+		array(
+		'label' => '照片1',
+		'type'=>'raw',
+		'value' => CHtml::decode($model->stu_feedback_image)
+			),
+		array(
+		'label' => '照片2',
+		'type'=>'raw',
+		'value' => CHtml::decode($model->stu_feedback_image2)
+			),
+		array(
+		'label' => '照片3',
+		'type'=>'raw',
+		'value' => CHtml::decode($model->stu_feedback_image3)
+			),
 		'stu_feedback_time',
 	),
 )); ?>

@@ -51,8 +51,12 @@ class StuOfferController extends Controller
 	 */
 	public function actionView($id)
 	{
+		$cat=Yii::app()->createController('stuFeedback');
+		$cat=$cat[0]; //get the controller instance.
+
 		$this->render('view',array(
 			'model'=>$this->loadModel($id),
+			'feedback'=>$cat->loadModel(15),
 		));
 	}
 
