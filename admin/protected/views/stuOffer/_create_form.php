@@ -67,6 +67,7 @@
 	</div>
 
 	<div class="row">
+		（图片尺寸为：197*133,每个学生只上传一张图片）</p>
 		<?php echo $form->labelEx($model,'stu_imag'); ?>
 		<?php echo CHtml::activeFileField($model, 'stu_imag'); ?>
 		<?php echo $form->error($model,'stu_imag'); ?>
