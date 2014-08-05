@@ -14,4 +14,4 @@ $this->menu=array(
 
 <div id="logo">添加一对一捐助学生基本资料</div>
 
-<?php $this->renderPartial('_form', array('model'=>$model)); ?>
+<?php $this->renderPartial('_create_form', array('model'=>$model)); ?>

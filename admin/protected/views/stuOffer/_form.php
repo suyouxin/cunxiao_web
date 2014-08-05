@@ -21,62 +21,81 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'stu_number'); ?>
-		<?php echo $form->textArea($model,'stu_number',array('rows'=>6, 'cols'=>50)); ?>
+		<?php echo $form->textField($model,'stu_number',array(
+				   	'size'=>50, 'maxlengh'=>50, 'readonly'=>true)); ?>
 		<?php echo $form->error($model,'stu_number'); ?>
 	</div>
 
 	<div class="row">
-		<?php echo $form->labelEx($model,'stu_name'); ?>
-		<?php echo $form->textArea($model,'stu_name',array('rows'=>6, 'cols'=>50)); ?>
+		<?php echo $form->labelEx($model,'stu_name'); ?>  
+		<?php echo $form->textField($model,'stu_name',array('size'=>10, 'maxlengh'=>20)); ?>
 		<?php echo $form->error($model,'stu_name'); ?>
 	</div>
 
 	<div class="row">
+		School should be a drop down list<br>
+		<?php echo $form->labelEx($model,'stu_school'); ?>
+		<?php echo $form->textField($model,'stu_school',array('size'=>40, 'maxlengh'=>60)); ?>
+		<?php echo $form->error($model,'stu_school'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'stu_add'); ?>
+		<?php echo $form->textArea($model,'stu_add',array('rows'=>2, 'cols'=>50)); ?>
+		<?php echo $form->error($model,'stu_add'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'stu_grade'); ?>
+		<?php echo $form->textField($model,'stu_grade',array('size'=>10, 'maxlengh'=>20)); ?>
+		<?php echo $form->error($model,'stu_grade'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'stu_class'); ?>
+		<?php echo $form->textField($model,'stu_class',array('size'=>10, 'maxlengh'=>20)); ?>
+		<?php echo $form->error($model,'stu_class'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'stu_base'); ?>
+		<?php echo $form->textArea($model,'stu_base',array('rows'=>9, 'cols'=>50)); ?>
+		<?php echo $form->error($model,'stu_base'); ?>
+	</div>
+
+	<div class="row">
 		<?php echo $form->labelEx($model,'stu_sex'); ?>
-		<?php echo $form->textArea($model,'stu_sex',array('rows'=>6, 'cols'=>50)); ?>
+		<?php echo $form->dropDownList($model,'stu_sex',array('男'=>'男','女'=>'女')); ?>
 		<?php echo $form->error($model,'stu_sex'); ?>
 	</div>
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'stu_born'); ?>
-		<?php echo $form->textArea($model,'stu_born',array('rows'=>6, 'cols'=>50)); ?>
+		<?php 
+			$this->widget('zii.widgets.jui.CJuiDatePicker', array(
+			'model' => $model,
+			'attribute' => 'stu_born',
+			'language' => 'zh_cn',
+			'options' => array(
+				'dateFormat' => 'yy-mm-dd',     // format of "2012-12-25"
+				'showOtherMonths' => true,      // show dates in other months
+				'selectOtherMonths' => true,    // can seelect dates in other months
+				'changeYear' => true,           // can change year
+				'changeMonth' => true,  
+			),
+			'htmlOptions' => array(
+				'size' => '10',         // textField size
+				'maxlength' => '10',    // textField maxlength
+			),
+			));	
+		?>
 		<?php echo $form->error($model,'stu_born'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_base'); ?>
-		<?php echo $form->textArea($model,'stu_base',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_base'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_add'); ?>
-		<?php echo $form->textArea($model,'stu_add',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_add'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_school'); ?>
-		<?php echo $form->textArea($model,'stu_school',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_school'); ?>
 	</div>
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'stu_imag'); ?>
 		<?php echo $form->textArea($model,'stu_imag',array('rows'=>6, 'cols'=>50)); ?>
 		<?php echo $form->error($model,'stu_imag'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_grade'); ?>
-		<?php echo $form->textArea($model,'stu_grade',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_grade'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_class'); ?>
-		<?php echo $form->textArea($model,'stu_class',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_class'); ?>
 	</div>
 
 	<div class="row">
@@ -99,13 +118,47 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'stu_offer_time'); ?>
-		<?php echo $form->textField($model,'stu_offer_time'); ?>
+		<?php 
+			$this->widget('zii.widgets.jui.CJuiDatePicker', array(
+				'model' => $model,
+				'attribute' => 'stu_offer_time',
+				'language' => 'zh_cn',
+				'options' => array(
+					'dateFormat' => 'yy-mm-dd',     // format of "2012-12-25"
+					'showOtherMonths' => true,      // show dates in other months
+					'selectOtherMonths' => true,    // can seelect dates in other months
+					'changeYear' => true,           // can change year
+					'changeMonth' => true,  
+				),
+				'htmlOptions' => array(
+					'size' => '10',         // textField size
+					'maxlength' => '10',    // textField maxlength
+				),
+			));
+		?>
 		<?php echo $form->error($model,'stu_offer_time'); ?>
 	</div>
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'stu_offer_mail_time'); ?>
-		<?php echo $form->textArea($model,'stu_offer_mail_time',array('rows'=>6, 'cols'=>50)); ?>
+		<?php 
+			$this->widget('zii.widgets.jui.CJuiDatePicker', array(
+				'model' => $model,
+				'attribute' => 'stu_offer_mail_time',
+				'language' => 'zh_cn',
+				'options' => array(
+					'dateFormat' => 'yy-mm-dd',     // format of "2012-12-25"
+					'showOtherMonths' => true,      // show dates in other months
+					'selectOtherMonths' => true,    // can seelect dates in other months
+					'changeYear' => true,           // can change year
+					'changeMonth' => true,  
+				),
+				'htmlOptions' => array(
+					'size' => '10',         // textField size
+					'maxlength' => '10',    // textField maxlength
+				),
+			));
+		?>
 		<?php echo $form->error($model,'stu_offer_mail_time'); ?>
 	</div>
 
@@ -173,60 +226,6 @@
 		<?php echo $form->labelEx($model,'stu_3'); ?>
 		<?php echo $form->textArea($model,'stu_3',array('rows'=>6, 'cols'=>50)); ?>
 		<?php echo $form->error($model,'stu_3'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_4'); ?>
-		<?php echo $form->textArea($model,'stu_4',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_4'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_5'); ?>
-		<?php echo $form->textArea($model,'stu_5',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_5'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_6'); ?>
-		<?php echo $form->textArea($model,'stu_6',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_6'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_7'); ?>
-		<?php echo $form->textArea($model,'stu_7',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_7'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_8'); ?>
-		<?php echo $form->textArea($model,'stu_8',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_8'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_9'); ?>
-		<?php echo $form->textArea($model,'stu_9',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_9'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_10'); ?>
-		<?php echo $form->textArea($model,'stu_10',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_10'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_11'); ?>
-		<?php echo $form->textArea($model,'stu_11',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_11'); ?>
-	</div>
-
-	<div class="row">
-		<?php echo $form->labelEx($model,'stu_12'); ?>
-		<?php echo $form->textArea($model,'stu_12',array('rows'=>6, 'cols'=>50)); ?>
-		<?php echo $form->error($model,'stu_12'); ?>
 	</div>
 
 	<div class="row">

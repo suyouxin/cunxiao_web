@@ -63,30 +63,36 @@ $this->menu=array(
 	),
 )); ?>
 
-<div id="logo">学生反馈信息</div>
 
-<?php $this->widget('zii.widgets.CDetailView', array(
-	'data'=>$feedback,
-	'attributes'=>array(
-		'stu_number',
-		'stu_name',
-		'stu_feedback_info',
-		array(
-		'label' => '照片1',
-		'type'=>'raw',
-		'value' => CHtml::decode($feedback->stu_feedback_image)
+<?php 
+    if (!empty($feedbacks)) {
+
+		echo('<div id="logo">学生反馈信息</div>');
+
+		foreach ($feedbacks as $feedback) {
+			$this->widget('zii.widgets.CDetailView', array(
+			'data'=>$feedback,
+			'attributes'=>array(
+				'stu_feedback_info',
+				array(
+				'label' => '照片1',
+				'type'=>'raw',
+				'value' => CHtml::decode($feedback->stu_feedback_image)
+					),
+				array(
+				'label' => '照片2',
+				'type'=>'raw',
+				'value' => CHtml::decode($feedback->stu_feedback_image2)
+					),
+				array(
+				'label' => '照片3',
+				'type'=>'raw',
+				'value' => CHtml::decode($feedback->stu_feedback_image3)
+					),
+				'stu_feedback_time',
 			),
-		array(
-		'label' => '照片2',
-		'type'=>'raw',
-		'value' => CHtml::decode($feedback->stu_feedback_image2)
-			),
-		array(
-		'label' => '照片3',
-		'type'=>'raw',
-		'value' => CHtml::decode($feedback->stu_feedback_image3)
-			),
-		'stu_feedback_time',
-	),
-)); ?>
+			)); 
+		}
+	}
+?>
 

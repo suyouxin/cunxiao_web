@@ -28,11 +28,11 @@ class StuOfferController extends Controller
 	{
 		return array(
 			array('allow',  // allow all users to perform 'index' and 'view' actions
-				'actions'=>array('index','view'),
+				'actions'=>array(''),
 				'users'=>array('*'),
 			),
 			array('allow', // allow authenticated user to perform 'create' and 'update' actions
-				'actions'=>array('create','update'),
+				'actions'=>array('create','update','view','index'),
 				'users'=>array('@'),
 			),
 			array('allow', // allow admin user to perform 'admin' and 'delete' actions
@@ -54,9 +54,13 @@ class StuOfferController extends Controller
 		$cat=Yii::app()->createController('stuFeedback');
 		$cat=$cat[0]; //get the controller instance.
 
+		$stu_info = $this->loadModel($id);
+
+		$feedbacks = StuFeedback::model()->findAllByAttributes(array('stu_number'=>$stu_info->stu_number));
+
 		$this->render('view',array(
-			'model'=>$this->loadModel($id),
-			'feedback'=>$cat->loadModel(15),
+			'model'=>$stu_info,
+			'feedbacks'=>$feedbacks,
 		));
 	}
 

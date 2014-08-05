@@ -537,3 +537,779 @@ Stack trace:
 REQUEST_URI=/admin/index.php/query/o2otable_r7_c3.jpg
 HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/query/fund_request?stu_id=3687
 ---
+2014/08/05 00:06:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/61511_chenfeiyan2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/426
+---
+2014/08/05 00:06:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/42049_chenfeiyan.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/426
+---
+2014/08/05 00:34:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/61511_chenfeiyan2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/426
+---
+2014/08/05 00:34:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/42049_chenfeiyan.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/426
+---
+2014/08/05 00:34:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/61511_chenfeiyan2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1026
+---
+2014/08/05 00:34:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/42049_chenfeiyan.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1026
+---
+2014/08/05 00:35:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuFeedback/upl...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuFeedback/uploadfile/JPG/55146_liujing2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuFeedback/18
+---
+2014/08/05 00:35:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuFeedback/upl...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuFeedback/uploadfile/JPG/29932_liujing.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuFeedback/18
+---
+2014/08/05 00:39:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/61511_chenfeiyan2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/426
+---
+2014/08/05 00:39:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/42049_chenfeiyan.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/426
+---
+2014/08/05 07:55:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/42049_chenfeiyan.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1026
+---
+2014/08/05 07:55:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/61511_chenfeiyan2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1026
+---
+2014/08/05 08:11:46 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:47 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:47 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:47 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:47 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:47 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:48 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:48 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:48 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:48 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:48 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:49 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:11:49 [error] [php] Undefined variable: std_info (/home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php:62)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (62)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:12:00 [error] [php] Trying to get property of non-object (/home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php:77)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): StuOfferController->renderFile()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): StuOfferController->renderPartial()
+#2 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(64): StuOfferController->render()
+#3 unknown(0): StuOfferController->actionView()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php (77)
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (64)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:12:07 [error] [php] Trying to get property of non-object (/home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php:77)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): StuOfferController->renderFile()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): StuOfferController->renderPartial()
+#2 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(64): StuOfferController->render()
+#3 unknown(0): StuOfferController->actionView()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php (77)
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (64)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:12:08 [error] [php] Trying to get property of non-object (/home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php:77)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): StuOfferController->renderFile()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): StuOfferController->renderPartial()
+#2 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(64): StuOfferController->render()
+#3 unknown(0): StuOfferController->actionView()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php (77)
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (64)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:12:08 [error] [php] Trying to get property of non-object (/home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php:77)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): StuOfferController->renderFile()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): StuOfferController->renderPartial()
+#2 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(64): StuOfferController->render()
+#3 unknown(0): StuOfferController->actionView()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php (77)
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (64)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:12:08 [error] [php] Trying to get property of non-object (/home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php:77)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): StuOfferController->renderFile()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): StuOfferController->renderPartial()
+#2 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(64): StuOfferController->render()
+#3 unknown(0): StuOfferController->actionView()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php (77)
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (64)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:12:08 [error] [php] Trying to get property of non-object (/home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php:77)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): StuOfferController->renderFile()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): StuOfferController->renderPartial()
+#2 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(64): StuOfferController->render()
+#3 unknown(0): StuOfferController->actionView()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1026
+in /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php (77)
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (64)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:19:35 [error] [php] Trying to get property of non-object (/home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php:81)
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): StuOfferController->renderFile()
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): StuOfferController->renderPartial()
+#2 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(64): StuOfferController->render()
+#3 unknown(0): StuOfferController->actionView()
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): StuOfferController->runAction()
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): StuOfferController->filterAccessControl()
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): StuOfferController->runActionWithFilters()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): StuOfferController->run()
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/index.php/stuOffer/1234
+in /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/view.php (81)
+in /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php (64)
+in /home/suyouxin/web/cunxiao_web/admin/index.php (13)
+2014/08/05 08:20:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/62835_banjitai.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:24:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/43777_banjitai2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:24:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/62835_banjitai.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:24:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/43777_banjitai2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:24:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/62835_banjitai.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:25:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/43777_banjitai2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:25:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/62835_banjitai.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:25:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/62835_banjitai.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:25:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/43777_banjitai2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1234
+---
+2014/08/05 08:26:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuFeedback/upl...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuFeedback/uploadfile/JPG/61511_chenfeiyan2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuFeedback/15
+---
+2014/08/05 08:26:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuFeedback/upl...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuFeedback/uploadfile/JPG/42049_chenfeiyan.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuFeedback/15
+---
+2014/08/05 08:26:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/61511_chenfeiyan2.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1205
+---
+2014/08/05 08:26:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '系统无法找到请求的 "uploadfile" 动作.' in /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php:483
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(270): CController->missingAction('uploadfile')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('uploadfile')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/upload...')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/admin/index.php/stuOffer/uploadfile/JPG/42049_chenfeiyan.JPG
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/1205
+---
+2014/08/05 23:29:05 [error] [exception.CException] exception 'CException' with message '属性 "StuOffer.date_from" 未被定义.' in /home/suyouxin/web/cunxiao_web/yii/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/db/ar/CActiveRecord.php(145): CComponent->__get('date_from')
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/helpers/CHtml.php(2703): CActiveRecord->__get('date_from')
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/helpers/CHtml.php(2426): CHtml::resolveValue(Object(StuOffer), 'date_from')
+#3 /home/suyouxin/web/cunxiao_web/yii/framework/web/helpers/CHtml.php(1528): CHtml::activeInputField('text', Object(StuOffer), 'date_from', Array)
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/zii/widgets/jui/CJuiDatePicker.php(84): CHtml::activeTextField(Object(StuOffer), 'date_from', Array)
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(181): CJuiDatePicker->run()
+#6 /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/_form.php(82): CBaseController->widget('zii.widgets.jui...', Array)
+#7 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(126): require('/home/suyouxin/...')
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/suyouxin/...', Array, true)
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/suyouxin/...', Array, true)
+#10 /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/create.php(17): CController->renderPartial('_form', Array)
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(126): require('/home/suyouxin/...')
+#12 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/suyouxin/...', Array, true)
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/suyouxin/...', Array, true)
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): CController->renderPartial('create', Array, true)
+#15 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(87): CController->render('create', Array)
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(49): StuOfferController->actionCreate()
+#17 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#18 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#19 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#20 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#21 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#23 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#24 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#26 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/create')
+#27 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#28 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/admin/index.php/stuOffer/create
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/admin
+---
+2014/08/05 23:36:13 [error] [exception.CException] exception 'CException' with message '属性 "CJuiDatePicker.option" 未被定义.' in /home/suyouxin/web/cunxiao_web/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWidgetFactory.php(161): CComponent->__set('option', Array)
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(StuOfferController), 'zii.widgets.jui...', Array)
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(180): CBaseController->createWidget('zii.widgets.jui...', Array)
+#3 /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/_form.php(144): CBaseController->widget('zii.widgets.jui...', Array)
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(126): require('/home/suyouxin/...')
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/suyouxin/...', Array, true)
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/suyouxin/...', Array, true)
+#7 /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/create.php(17): CController->renderPartial('_form', Array)
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(126): require('/home/suyouxin/...')
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/suyouxin/...', Array, true)
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/suyouxin/...', Array, true)
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): CController->renderPartial('create', Array, true)
+#12 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(87): CController->render('create', Array)
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(49): StuOfferController->actionCreate()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#17 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#18 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#19 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#20 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#21 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#23 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/create')
+#24 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#25 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/admin/index.php/stuOffer/create
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/admin
+---
+2014/08/05 23:36:18 [error] [exception.CException] exception 'CException' with message '属性 "CJuiDatePicker.option" 未被定义.' in /home/suyouxin/web/cunxiao_web/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWidgetFactory.php(161): CComponent->__set('option', Array)
+#1 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(StuOfferController), 'zii.widgets.jui...', Array)
+#2 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(180): CBaseController->createWidget('zii.widgets.jui...', Array)
+#3 /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/_form.php(144): CBaseController->widget('zii.widgets.jui...', Array)
+#4 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(126): require('/home/suyouxin/...')
+#5 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/suyouxin/...', Array, true)
+#6 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/suyouxin/...', Array, true)
+#7 /home/suyouxin/web/cunxiao_web/admin/protected/views/stuOffer/create.php(17): CController->renderPartial('_form', Array)
+#8 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(126): require('/home/suyouxin/...')
+#9 /home/suyouxin/web/cunxiao_web/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/suyouxin/...', Array, true)
+#10 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/suyouxin/...', Array, true)
+#11 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(782): CController->renderPartial('create', Array, true)
+#12 /home/suyouxin/web/cunxiao_web/admin/protected/controllers/StuOfferController.php(87): CController->render('create', Array)
+#13 /home/suyouxin/web/cunxiao_web/yii/framework/web/actions/CInlineAction.php(49): StuOfferController->actionCreate()
+#14 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#15 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#16 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#17 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#18 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#19 /home/suyouxin/web/cunxiao_web/yii/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#20 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(291): CFilterChain->run()
+#21 /home/suyouxin/web/cunxiao_web/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(282): CController->run('create')
+#23 /home/suyouxin/web/cunxiao_web/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('stuOffer/create')
+#24 /home/suyouxin/web/cunxiao_web/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#25 /home/suyouxin/web/cunxiao_web/admin/index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/admin/index.php/stuOffer/create
+HTTP_REFERER=http://test.cunxiao.org:3000/admin/index.php/stuOffer/admin
+---
